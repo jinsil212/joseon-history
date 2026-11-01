@@ -1,0 +1,10 @@
+.env
+.env.*
+*.mp3
+*.mp4
+*.wav
+*.mov
+*.xlsx
+__pycache__/
+*.pyc
+_work/
